@@ -1,0 +1,181 @@
+
+========================Error======================== 
+
+[30-Jul-2015 08:52:11]  [ ErrorCode :42S22] #0 F:\xampp\htdocs\ours\libs\Database.php(31): PDOStatement->execute()
+#1 F:\xampp\htdocs\ours\models\dashboard_model.php(71): Database->select('SELECT req_area...')
+#2 F:\xampp\htdocs\ours\controllers\dashboard.php(103): Dashboard_Model->_selectAllTeamSummary('quarter')
+#3 F:\xampp\htdocs\ours\libs\Bootstrap.php(150): Dashboard->selectTypeSummary()
+#4 F:\xampp\htdocs\ours\libs\Bootstrap.php(31): Bootstrap->_callControllerMethod()
+#5 F:\xampp\htdocs\ours\index.php(21): Bootstrap->init()
+#6 {main} : 
+
+ ==>Error Message : SQLSTATE[42S22]: Column not found: 1054 Unknown column 'team_id' in 'where clause'
+ ======================== End ========================
+========================Error======================== 
+
+[30-Jul-2015 08:52:13]  [ ErrorCode :42S22] #0 F:\xampp\htdocs\ours\libs\Database.php(31): PDOStatement->execute()
+#1 F:\xampp\htdocs\ours\models\dashboard_model.php(66): Database->select('SELECT req_area...')
+#2 F:\xampp\htdocs\ours\controllers\dashboard.php(103): Dashboard_Model->_selectAllTeamSummary('week')
+#3 F:\xampp\htdocs\ours\libs\Bootstrap.php(150): Dashboard->selectTypeSummary()
+#4 F:\xampp\htdocs\ours\libs\Bootstrap.php(31): Bootstrap->_callControllerMethod()
+#5 F:\xampp\htdocs\ours\index.php(21): Bootstrap->init()
+#6 {main} : 
+
+ ==>Error Message : SQLSTATE[42S22]: Column not found: 1054 Unknown column 'case_type' in 'field list'
+ ======================== End ========================
+========================Error======================== 
+
+[30-Jul-2015 08:53:02]  [ ErrorCode :42S22] #0 F:\xampp\htdocs\ours\libs\Database.php(31): PDOStatement->execute()
+#1 F:\xampp\htdocs\ours\models\dashboard_model.php(69): Database->select('SELECT req_area...')
+#2 F:\xampp\htdocs\ours\controllers\dashboard.php(103): Dashboard_Model->_selectAllTeamSummary('month')
+#3 F:\xampp\htdocs\ours\libs\Bootstrap.php(150): Dashboard->selectTypeSummary()
+#4 F:\xampp\htdocs\ours\libs\Bootstrap.php(31): Bootstrap->_callControllerMethod()
+#5 F:\xampp\htdocs\ours\index.php(21): Bootstrap->init()
+#6 {main} : 
+
+ ==>Error Message : SQLSTATE[42S22]: Column not found: 1054 Unknown column 'team_id' in 'where clause'
+ ======================== End ========================
+========================Error======================== 
+
+[30-Jul-2015 08:53:03]  [ ErrorCode :42S22] #0 F:\xampp\htdocs\ours\libs\Database.php(31): PDOStatement->execute()
+#1 F:\xampp\htdocs\ours\models\dashboard_model.php(66): Database->select('SELECT req_area...')
+#2 F:\xampp\htdocs\ours\controllers\dashboard.php(103): Dashboard_Model->_selectAllTeamSummary('week')
+#3 F:\xampp\htdocs\ours\libs\Bootstrap.php(150): Dashboard->selectTypeSummary()
+#4 F:\xampp\htdocs\ours\libs\Bootstrap.php(31): Bootstrap->_callControllerMethod()
+#5 F:\xampp\htdocs\ours\index.php(21): Bootstrap->init()
+#6 {main} : 
+
+ ==>Error Message : SQLSTATE[42S22]: Column not found: 1054 Unknown column 'case_type' in 'field list'
+ ======================== End ========================
+========================Error======================== 
+
+[30-Jul-2015 08:53:06]  [ ErrorCode :42S22] #0 F:\xampp\htdocs\ours\libs\Database.php(31): PDOStatement->execute()
+#1 F:\xampp\htdocs\ours\models\dashboard_model.php(66): Database->select('SELECT req_area...')
+#2 F:\xampp\htdocs\ours\controllers\dashboard.php(103): Dashboard_Model->_selectAllTeamSummary('week')
+#3 F:\xampp\htdocs\ours\libs\Bootstrap.php(150): Dashboard->selectTypeSummary()
+#4 F:\xampp\htdocs\ours\libs\Bootstrap.php(31): Bootstrap->_callControllerMethod()
+#5 F:\xampp\htdocs\ours\index.php(21): Bootstrap->init()
+#6 {main} : 
+
+ ==>Error Message : SQLSTATE[42S22]: Column not found: 1054 Unknown column 'case_type' in 'field list'
+ ======================== End ========================
+========================Error======================== 
+
+[30-Jul-2015 08:53:06]  [ ErrorCode :42S22] #0 F:\xampp\htdocs\ours\libs\Database.php(31): PDOStatement->execute()
+#1 F:\xampp\htdocs\ours\models\dashboard_model.php(69): Database->select('SELECT req_area...')
+#2 F:\xampp\htdocs\ours\controllers\dashboard.php(103): Dashboard_Model->_selectAllTeamSummary('month')
+#3 F:\xampp\htdocs\ours\libs\Bootstrap.php(150): Dashboard->selectTypeSummary()
+#4 F:\xampp\htdocs\ours\libs\Bootstrap.php(31): Bootstrap->_callControllerMethod()
+#5 F:\xampp\htdocs\ours\index.php(21): Bootstrap->init()
+#6 {main} : 
+
+ ==>Error Message : SQLSTATE[42S22]: Column not found: 1054 Unknown column 'team_id' in 'where clause'
+ ======================== End ========================
+========================Error======================== 
+
+[30-Jul-2015 08:53:08]  [ ErrorCode :42S22] #0 F:\xampp\htdocs\ours\libs\Database.php(31): PDOStatement->execute()
+#1 F:\xampp\htdocs\ours\models\dashboard_model.php(71): Database->select('SELECT req_area...')
+#2 F:\xampp\htdocs\ours\controllers\dashboard.php(103): Dashboard_Model->_selectAllTeamSummary('quarter')
+#3 F:\xampp\htdocs\ours\libs\Bootstrap.php(150): Dashboard->selectTypeSummary()
+#4 F:\xampp\htdocs\ours\libs\Bootstrap.php(31): Bootstrap->_callControllerMethod()
+#5 F:\xampp\htdocs\ours\index.php(21): Bootstrap->init()
+#6 {main} : 
+
+ ==>Error Message : SQLSTATE[42S22]: Column not found: 1054 Unknown column 'team_id' in 'where clause'
+ ======================== End ========================
+========================Error======================== 
+
+[30-Jul-2015 08:53:08]  [ ErrorCode :42S22] #0 F:\xampp\htdocs\ours\libs\Database.php(31): PDOStatement->execute()
+#1 F:\xampp\htdocs\ours\models\dashboard_model.php(69): Database->select('SELECT req_area...')
+#2 F:\xampp\htdocs\ours\controllers\dashboard.php(103): Dashboard_Model->_selectAllTeamSummary('month')
+#3 F:\xampp\htdocs\ours\libs\Bootstrap.php(150): Dashboard->selectTypeSummary()
+#4 F:\xampp\htdocs\ours\libs\Bootstrap.php(31): Bootstrap->_callControllerMethod()
+#5 F:\xampp\htdocs\ours\index.php(21): Bootstrap->init()
+#6 {main} : 
+
+ ==>Error Message : SQLSTATE[42S22]: Column not found: 1054 Unknown column 'team_id' in 'where clause'
+ ======================== End ========================
+========================Error======================== 
+
+[30-Jul-2015 08:53:09]  [ ErrorCode :42S22] #0 F:\xampp\htdocs\ours\libs\Database.php(31): PDOStatement->execute()
+#1 F:\xampp\htdocs\ours\models\dashboard_model.php(66): Database->select('SELECT req_area...')
+#2 F:\xampp\htdocs\ours\controllers\dashboard.php(103): Dashboard_Model->_selectAllTeamSummary('week')
+#3 F:\xampp\htdocs\ours\libs\Bootstrap.php(150): Dashboard->selectTypeSummary()
+#4 F:\xampp\htdocs\ours\libs\Bootstrap.php(31): Bootstrap->_callControllerMethod()
+#5 F:\xampp\htdocs\ours\index.php(21): Bootstrap->init()
+#6 {main} : 
+
+ ==>Error Message : SQLSTATE[42S22]: Column not found: 1054 Unknown column 'case_type' in 'field list'
+ ======================== End ========================
+========================Error======================== 
+
+[30-Jul-2015 08:53:10]  [ ErrorCode :42S22] #0 F:\xampp\htdocs\ours\libs\Database.php(31): PDOStatement->execute()
+#1 F:\xampp\htdocs\ours\models\dashboard_model.php(66): Database->select('SELECT req_area...')
+#2 F:\xampp\htdocs\ours\controllers\dashboard.php(103): Dashboard_Model->_selectAllTeamSummary('week')
+#3 F:\xampp\htdocs\ours\libs\Bootstrap.php(150): Dashboard->selectTypeSummary()
+#4 F:\xampp\htdocs\ours\libs\Bootstrap.php(31): Bootstrap->_callControllerMethod()
+#5 F:\xampp\htdocs\ours\index.php(21): Bootstrap->init()
+#6 {main} : 
+
+ ==>Error Message : SQLSTATE[42S22]: Column not found: 1054 Unknown column 'case_type' in 'field list'
+ ======================== End ========================
+========================Error======================== 
+
+[30-Jul-2015 08:53:10]  [ ErrorCode :42S22] #0 F:\xampp\htdocs\ours\libs\Database.php(31): PDOStatement->execute()
+#1 F:\xampp\htdocs\ours\models\dashboard_model.php(69): Database->select('SELECT req_area...')
+#2 F:\xampp\htdocs\ours\controllers\dashboard.php(103): Dashboard_Model->_selectAllTeamSummary('month')
+#3 F:\xampp\htdocs\ours\libs\Bootstrap.php(150): Dashboard->selectTypeSummary()
+#4 F:\xampp\htdocs\ours\libs\Bootstrap.php(31): Bootstrap->_callControllerMethod()
+#5 F:\xampp\htdocs\ours\index.php(21): Bootstrap->init()
+#6 {main} : 
+
+ ==>Error Message : SQLSTATE[42S22]: Column not found: 1054 Unknown column 'team_id' in 'where clause'
+ ======================== End ========================
+========================Error======================== 
+
+[30-Jul-2015 08:53:11]  [ ErrorCode :42S22] #0 F:\xampp\htdocs\ours\libs\Database.php(31): PDOStatement->execute()
+#1 F:\xampp\htdocs\ours\models\dashboard_model.php(66): Database->select('SELECT req_area...')
+#2 F:\xampp\htdocs\ours\controllers\dashboard.php(103): Dashboard_Model->_selectAllTeamSummary('week')
+#3 F:\xampp\htdocs\ours\libs\Bootstrap.php(150): Dashboard->selectTypeSummary()
+#4 F:\xampp\htdocs\ours\libs\Bootstrap.php(31): Bootstrap->_callControllerMethod()
+#5 F:\xampp\htdocs\ours\index.php(21): Bootstrap->init()
+#6 {main} : 
+
+ ==>Error Message : SQLSTATE[42S22]: Column not found: 1054 Unknown column 'case_type' in 'field list'
+ ======================== End ========================
+========================Error======================== 
+
+[30-Jul-2015 08:53:14]  [ ErrorCode :42S22] #0 F:\xampp\htdocs\ours\libs\Database.php(31): PDOStatement->execute()
+#1 F:\xampp\htdocs\ours\models\dashboard_model.php(66): Database->select('SELECT req_area...')
+#2 F:\xampp\htdocs\ours\controllers\dashboard.php(103): Dashboard_Model->_selectAllTeamSummary('week')
+#3 F:\xampp\htdocs\ours\libs\Bootstrap.php(150): Dashboard->selectTypeSummary()
+#4 F:\xampp\htdocs\ours\libs\Bootstrap.php(31): Bootstrap->_callControllerMethod()
+#5 F:\xampp\htdocs\ours\index.php(21): Bootstrap->init()
+#6 {main} : 
+
+ ==>Error Message : SQLSTATE[42S22]: Column not found: 1054 Unknown column 'case_type' in 'field list'
+ ======================== End ========================
+========================Error======================== 
+
+[13-Mar-2016 10:34:26]  [ ErrorCode :HY093] #0 E:\wamp\www\nbe\libs\Database.php(31): PDOStatement->execute()
+#1 E:\wamp\www\nbe\models\device_type_model.php(21): Database->select('SELECT dt_id, d...', true, Array)
+#2 E:\wamp\www\nbe\controllers\device_type.php(32): device_type_model->_edit('7')
+#3 E:\wamp\www\nbe\libs\Bootstrap.php(145): device_type->edit('7')
+#4 E:\wamp\www\nbe\libs\Bootstrap.php(31): Bootstrap->_callControllerMethod()
+#5 E:\wamp\www\nbe\index.php(21): Bootstrap->init()
+#6 {main} : 
+
+ ==>Error Message : SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+ ======================== End ========================
+========================Error======================== 
+
+[13-May-2016 12:04:29]  [ ErrorCode :21000] #0 E:\wamp\www\nbe\libs\Database.php(31): PDOStatement->execute()
+#1 E:\wamp\www\nbe\models\view_request_model.php(122): Database->select('SELECT *, (SELE...', Array)
+#2 E:\wamp\www\nbe\controllers\view_request.php(316): View_Request_Model->_additionalSol(Array)
+#3 E:\wamp\www\nbe\libs\Bootstrap.php(150): View_Request->additionalSol()
+#4 E:\wamp\www\nbe\libs\Bootstrap.php(31): Bootstrap->_callControllerMethod()
+#5 E:\wamp\www\nbe\index.php(21): Bootstrap->init()
+#6 {main} : 
+
+ ==>Error Message : SQLSTATE[21000]: Cardinality violation: 1242 Subquery returns more than 1 row
+ ======================== End ========================
